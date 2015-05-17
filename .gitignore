@@ -1,23 +1,10 @@
 *.o
-main
-GLProgram.h
-GLProgram.cpp
-Chess3D.creator.user
-Chess3D.creator
-Chess3D.config
-Chess3D.files
-Chess3D.includes
-.gitignore~
-*.cbp
-*.depend
-*.layout
-/obj
-chess3D.creator.user
-chess3D.config
-chess3D.creator
-chess3D.files
-chess3D.includes
-*.autosave
-Simple OpenGL Image Library/
-SOIL/
-test.txt
+Debug/
+Release/
+*.opensdf
+*.suo
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
